@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-boot-jpa-querydsl:war">
+    <output-path>$PROJECT_DIR$/spring-boot-jpa-querydsl/target</output-path>
+    <root id="archive" name="spring-boot-jpa-querydsl.war">
+      <element id="artifact" artifact-name="spring-boot-jpa-querydsl:war exploded" />
+    </root>
+  </artifact>
+</component>

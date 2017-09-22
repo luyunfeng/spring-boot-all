@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-boot-freemarker:war">
+    <output-path>$PROJECT_DIR$/spring-boot-freemarker/target</output-path>
+    <root id="archive" name="spring-boot-freemarker.war">
+      <element id="artifact" artifact-name="spring-boot-freemarker:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-activemq-consumer" />
+        <module name="spring-boot-activemq-producer" />
+        <module name="spring-boot-activiti" />
+        <module name="spring-boot-cache-ehcache" />
+        <module name="spring-boot-cache-redis" />
+        <module name="spring-boot-crawler" />
+        <module name="spring-boot-devtools" />
+        <module name="spring-boot-easyui-kindeditor" />
+        <module name="spring-boot-email" />
+        <module name="spring-boot-freemarker" />
+        <module name="spring-boot-hello" />
+        <module name="spring-boot-hibernate5" />
+        <module name="spring-boot-jpa" />
+        <module name="spring-boot-jpa-querydsl" />
+        <module name="spring-boot-mybatis" />
+        <module name="spring-boot-quartz" />
+        <module name="spring-boot-shiro" />
+        <module name="spring-boot-shiro-redis" />
+        <module name="spring-boot-sitemesh" />
+        <module name="spring-boot-springfox" />
+        <module name="spring-boot-websocket" />
+        <module name="spring-boot-websocket-client" />
+        <module name="spring-boot-websocket-netty-server" />
+        <module name="spring-boot-welcome-page" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-activemq-consumer" target="1.8" />
+      <module name="spring-boot-activemq-producer" target="1.8" />
+      <module name="spring-boot-activiti" target="1.7" />
+      <module name="spring-boot-cache-ehcache" target="1.8" />
+      <module name="spring-boot-cache-redis" target="1.8" />
+      <module name="spring-boot-crawler" target="1.8" />
+      <module name="spring-boot-devtools" target="1.8" />
+      <module name="spring-boot-easyui-kindeditor" target="1.8" />
+      <module name="spring-boot-email" target="1.8" />
+      <module name="spring-boot-freemarker" target="1.8" />
+      <module name="spring-boot-hello" target="1.8" />
+      <module name="spring-boot-hibernate5" target="1.8" />
+      <module name="spring-boot-jpa" target="1.8" />
+      <module name="spring-boot-jpa-querydsl" target="1.8" />
+      <module name="spring-boot-mybatis" target="1.8" />
+      <module name="spring-boot-parent" target="1.8" />
+      <module name="spring-boot-quartz" target="1.8" />
+      <module name="spring-boot-shiro" target="1.8" />
+      <module name="spring-boot-shiro-redis" target="1.8" />
+      <module name="spring-boot-sitemesh" target="1.8" />
+      <module name="spring-boot-springfox" target="1.7" />
+      <module name="spring-boot-websocket" target="1.8" />
+      <module name="spring-boot-websocket-client" target="1.8" />
+      <module name="spring-boot-websocket-netty-server" target="1.8" />
+      <module name="spring-boot-welcome-page" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-boot-crawler:war">
+    <output-path>$PROJECT_DIR$/spring-boot-crawler/target</output-path>
+    <root id="archive" name="spring-boot-crawler.war">
+      <element id="artifact" artifact-name="spring-boot-crawler:war exploded" />
+    </root>
+  </artifact>
+</component>

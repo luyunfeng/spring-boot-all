@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-boot-springfox:war">
+    <output-path>$PROJECT_DIR$/spring-boot-springfox/target</output-path>
+    <root id="archive" name="spring-boot-springfox.war">
+      <element id="artifact" artifact-name="spring-boot-springfox:war exploded" />
+    </root>
+  </artifact>
+</component>

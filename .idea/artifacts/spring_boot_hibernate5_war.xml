@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-boot-hibernate5:war">
+    <output-path>$PROJECT_DIR$/spring-boot-hibernate5/target</output-path>
+    <root id="archive" name="spring-boot-hibernate5.war">
+      <element id="artifact" artifact-name="spring-boot-hibernate5:war exploded" />
+    </root>
+  </artifact>
+</component>

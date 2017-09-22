@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-boot-activiti:war">
+    <output-path>$PROJECT_DIR$/spring-boot-activiti/target</output-path>
+    <root id="archive" name="spring-boot-activiti.war">
+      <element id="artifact" artifact-name="spring-boot-activiti:war exploded" />
+    </root>
+  </artifact>
+</component>
